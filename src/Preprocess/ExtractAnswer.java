@@ -114,6 +114,8 @@ public class ExtractAnswer {
 		//clm.test();
 		
 			ea.extract("C:/Users/qjp/Dropbox/Patient Summarization/Patient/Data2",tagger);
+			
+			System.out.println("here");
 		}catch(Exception e)
 		{
 			e.printStackTrace();
